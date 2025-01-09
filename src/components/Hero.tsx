@@ -9,7 +9,7 @@ export function Hero() {
       <Container className="relative">
         <div className="mx-auto max-w-2xl lg:max-w-4xl lg:px-12">
           <h1 className="font-display text-5xl font-bold tracking-tighter text-[#2e2e2e] sm:text-6xl text-center">
-            Barrie Real Estate Collection
+            Barrie Real Estate Collective
           </h1>
           <h2 className="mt-4 text-2xl font-medium tracking-tight text-[#2e2e2e] text-center">
             Revolutionizing Real Estate with AI

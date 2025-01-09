@@ -20,7 +20,7 @@ const dmSans = DM_Sans({
 export const metadata: Metadata = {
   title: {
     template: '%s - BRC',
-    default: 'Barrie Realestate Collection',
+    default: 'Barrie Real Estate Collective',
   },
   description:
     'Barrie Real Estate Collective is a networking and event organization dedicated to connecting real estate professionals, investors, and industry leaders. We host events that foster collaboration, share innovative insights, and empower growth in the real estate sector. Join us to stay informed, build meaningful connections, and shape the future of real estate.',

@@ -7,7 +7,7 @@ export function Footer() {
       <Container className="flex flex-col items-center justify-between md:flex-row">
         <Logo />
         <p className="mt-4 text-sm text-slate-500 text-center md:mt-0">
-          Copyright &copy; {new Date().getFullYear()} Barrie Realestate Collection All
+          Copyright &copy; {new Date().getFullYear()} Barrie Real Estate Collective All
           rights reserved.
         </p>
       </Container>
