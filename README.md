@@ -1,35 +1,31 @@
-# Keynote
+# Barrie Real Estate Collection
 
-Keynote is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
+A premier real estate event platform showcasing the intersection of AI technology and real estate in Barrie, Ontario. This one-day conference brings together industry leaders, tech innovators, and real estate professionals to explore how artificial intelligence is transforming the real estate market.
 
-## Getting started
+## Event Details
 
-To get started with this template, first install the npm dependencies:
+- **Date:** February 16th, 2025
+- **Time:** 1:00 PM - 6:00 PM
+- **Location:** LIARS, Barrie
+- **Expected Attendance:** 105 professionals
 
-```bash
-npm install
-```
+## Target Audience
 
-Next, run the development server:
+- Real Estate Agents
+- Property Investors
+- Tech Entrepreneurs
+- Real Estate Developers
+- Property Managers
+- Industry Innovators
 
-```bash
-npm run dev
-```
+## Why Attend
 
-Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
+- Stay ahead of industry trends
+- Learn practical AI implementation strategies
+- Network with industry leaders
+- Gain competitive advantages
+- Access cutting-edge tools and insights
 
-## Customizing
+## Contact
 
-You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
-
-## License
-
-This site template is a commercial product and is licensed under the [Tailwind UI license](https://tailwindui.com/license).
-
-## Learn more
-
-To learn more about the technologies used in this site template, see the following resources:
-
-- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
-- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
-- [Headless UI](https://headlessui.dev) - the official Headless UI documentation
+For event registration and inquiries, visit our website or contact us directly through the newsletter signup.
