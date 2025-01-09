@@ -19,11 +19,11 @@ const dmSans = DM_Sans({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s - DeceptiConf',
-    default: 'DeceptiConf - A community-driven design conference',
+    template: '%s - BRC',
+    default: 'Barrie Realestate Collection',
   },
   description:
-    'At DeceptiConf you’ll learn about the latest dark patterns being developed to trick even the smartest visitors, and you’ll learn how to deploy them without ever being detected.',
+    'Barrie Real Estate Collective is a networking and event organization dedicated to connecting real estate professionals, investors, and industry leaders. We host events that foster collaboration, share innovative insights, and empower growth in the real estate sector. Join us to stay informed, build meaningful connections, and shape the future of real estate.',
 }
 
 export default function RootLayout({
