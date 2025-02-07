@@ -21,10 +21,10 @@ export default function Brec() {
                   </a>
                 </div>
                 <h1 className="mt-10 text-5xl font-semibold tracking-tight text-[#2e2e2e] sm:text-6xl">
-                  Artificial Intelligence Summit 2025
+                  2025 AI Summit by BREC
                 </h1>
                 <p className="mt-6 text-xl font-medium text-[#2e2e2e]/80 sm:text-2xl">
-                  Where like-minded real estate investors meet.
+                  Transforming Real Estate Transactions with Artificial Intelligence
                 </p>
                 <div className="mt-10 flex items-center gap-x-6">
                   <Button href="#tickets" className="text-lg">Get tickets</Button>

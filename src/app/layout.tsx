@@ -20,11 +20,11 @@ const dmSans = DM_Sans({
 
 export const metadata: Metadata = {
   title: {
-    template: '%s - BRC',
-    default: 'Barrie Real Estate Collective',
+    template: '%s - 2025 AI Summit By BREC',
+    default: '2025 AI Summit By BREC',
   },
   description:
-    'Barrie Real Estate Collective is a networking and event organization dedicated to connecting real estate professionals, investors, and industry leaders. We host events that foster collaboration, share innovative insights, and empower growth in the real estate sector. Join us to stay informed, build meaningful connections, and shape the future of real estate.',
+    'Join us for an immersive afternoon exploring how AI is transforming real estate transactions. Presented by Barrie Real Estate Collective (BREC).',
 }
 
 export default function RootLayout({

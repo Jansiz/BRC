@@ -9,7 +9,11 @@ export function Layout({ children }: { children: React.ReactNode }) {
   return (
     <>
       <Head>
-        <title>Barrie Real Estate Collection</title>
+        <title>2025 AI Summit by BREC | Barrie Real Estate Collective</title>
+        <meta 
+          name="description" 
+          content="Join us for an immersive afternoon exploring how AI is transforming real estate transactions. Presented by Barrie Real Estate Collective (BREC)." 
+        />
         <link rel="icon" href="/favicon.ico" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
